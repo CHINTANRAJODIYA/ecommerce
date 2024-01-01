@@ -15,7 +15,7 @@ function Head() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link href="#home">Home</Nav.Link>
+                            <Nav.Link href="#home">Home GIT</Nav.Link>
                             <Nav.Link href="#home">Sell</Nav.Link>
                             <Nav.Link href="#home">Bestsellers</Nav.Link>
                             <Nav.Link href="#home">Today's Deals</Nav.Link>
